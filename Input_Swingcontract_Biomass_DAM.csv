@@ -1,0 +1,13 @@
+unit_name,offer_number,Offer,b,t_s,t_e,P_min,P_max,Ramp_up,Ramp_down,Phi
+Biomass1,1,397.5,46,1,10,25,75,4.2,4.2,Biomass1_CV1
+Biomass1,2,397.5,46,18,24,25,75,4.2,4.2,Biomass1_CV2
+Biomass2,1,397.5,46,1,10,25,75,4.2,4.2,Biomass2_CV1
+Biomass2,2,397.5,46,18,24,25,75,4.2,4.2,Biomass2_CV2
+Biomass3,1,397.5,111,1,10,25,75,4.2,4.2,Biomass3_CV1
+Biomass3,2,397.5,111,18,24,25,75,4.2,4.2,Biomass3_CV2
+Biomass4,1,397.5,105,1,10,25,75,4.2,4.2,Biomass4_CV1
+Biomass4,2,397.5,105,18,24,25,75,4.2,4.2,Biomass4_CV2
+Biomass5,1,397.5,6,1,10,25,75,4.2,4.2,Biomass5_CV1
+Biomass5,2,397.5,6,18,24,25,75,4.2,4.2,Biomass5_CV2
+Biomass6,1,397.5,10,1,10,25,75,4.2,4.2,Biomass6_CV1
+Biomass6,2,397.5,10,18,24,25,75,4.2,4.2,Biomass6_CV2
